@@ -10,7 +10,7 @@ namespace: instavote
 
 images:
   - name: schoolofdevops/vote
-    newTag: v4
+    newTag: v5
 
 replicas:
   - name: vote
